@@ -1,0 +1,11 @@
+
+.nameAtAbout{
+
+   color:red;
+}
+
+#row1{
+   
+        @include make-row(1000px);
+      
+}
